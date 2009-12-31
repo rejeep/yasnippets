@@ -1,0 +1,3 @@
+#name : setStyle(...)
+# --
+setStyle('$1', '$0')

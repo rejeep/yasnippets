@@ -1,0 +1,6 @@
+#name : Boolean instance variable
+# --
+/**
+ * 
+ */
+private boolean ${1:variable_value};
