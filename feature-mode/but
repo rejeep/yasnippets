@@ -1,0 +1,4 @@
+#name: But something else
+# --
+But ${1:something else}
+$0
