@@ -1,5 +1,5 @@
 # Yasnippets
-My Yasnippet for the following modes:
+My Yasnippets for the following modes:
 
  * css-mode
  * emacs-lisp-mode
