@@ -1,6 +1,6 @@
-#name : defun function_name ...
+#name : defun function-name ...
 # --
-(defun ${1:function_name} ($2)
+(defun ${1:function-name} ($2)
   ""
   $0
-)
+  )

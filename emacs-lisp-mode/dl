@@ -1,4 +1,5 @@
 #name : dolist ...
 # --
 (dolist (${1:element} ${2:collection})
-  $0)
+  $0
+  )

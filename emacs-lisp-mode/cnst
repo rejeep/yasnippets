@@ -1,0 +1,4 @@
+#name : defconst ...
+# --
+(defconst ${1:constant-name} ${2:value}
+  "$0")
