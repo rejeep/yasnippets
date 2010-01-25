@@ -1,7 +1,6 @@
 #name : add-hook ...
 # --
-(add-hook '${1:mode_name}-mode-hook
-  '(lambda()
+(add-hook '${1:what}-hook
+  (lambda()
     $0
-  )
-)
+    ))
