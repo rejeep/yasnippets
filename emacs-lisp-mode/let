@@ -1,5 +1,5 @@
 #name : let ...
 # --
-(let ((${1:variable_name})$2)
+(let (${1:variables})
   $0
 )
