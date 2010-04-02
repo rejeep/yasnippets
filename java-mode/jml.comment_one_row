@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : JML comment one row
 # --
 /*@ $0 @*/

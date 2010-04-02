@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : $type(obj);
 # --
 $type($0)

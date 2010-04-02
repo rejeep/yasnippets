@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 ;;; ${1:mode-name}.el --- $0
 
 ;; Copyright `(format-time-string "%Y")`  Johan Andersson

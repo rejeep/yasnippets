@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : params
 # --
 params[:$1]

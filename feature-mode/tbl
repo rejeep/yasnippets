@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name: Table
 # --
 Given ${1:the following table}$2

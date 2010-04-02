@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : should_not_allow_values_for attr, value1, value2
 # --
 should_not_allow_values_for :${1:attribute}, ${2:value}

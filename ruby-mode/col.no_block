@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : collect(&:attribute)
 # --
 collect(&:${1:attribute})

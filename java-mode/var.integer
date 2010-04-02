@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : Integer variable
 # --
 int ${1:variable_name} = $2;

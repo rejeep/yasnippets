@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : flash[:warning] = ...
 # --
 flash[:warning] = "$0"

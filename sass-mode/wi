@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : width
 # --
 width: $1px

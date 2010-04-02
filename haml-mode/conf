@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : content_for
 # --
 - content_for :${1:target} do

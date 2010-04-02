@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : Validate exclusion
 # --
 validates_exclusion_of :${1:attributes}

@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : h2
 # --
 %h2 $0

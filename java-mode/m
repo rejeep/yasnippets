@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : method(...)
 # --
 $1($0)

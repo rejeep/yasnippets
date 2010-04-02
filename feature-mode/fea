@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name: Feature: Name
 # --
 Feature: ${1:Name}

@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : assert_raises Exception
 # --
 assert_raises ${1:Exception} do

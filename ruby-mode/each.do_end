@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : each do ... end
 # --
 ${1:collection}.each do |${2:element}|

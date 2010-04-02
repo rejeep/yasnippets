@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : font-size
 # --
 font-size: $1px

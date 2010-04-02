@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 #name : with_options ... do ...
 # --
 - ${1:method_name}.with_options ${2:options} do |${3:variable_name}|
