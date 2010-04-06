@@ -4,7 +4,6 @@
 /**
  * 
  */
-@After public void ${1:method_name}($2)
-{
+@After public void ${1:method_name}($2) {
   $0
 }

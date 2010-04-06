@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
 #name : else { ... }
 # --
-else
-{
+else {
   $0
 }

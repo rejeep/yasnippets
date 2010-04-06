@@ -4,8 +4,7 @@
 /**
  * 
  */
-public class ${1:`(file-name-sans-extension (buffer-name))`}
-{
+public class ${1:`(file-name-sans-extension (buffer-name))`} {
   /**
    * An instance of this class.
    */
@@ -23,10 +22,8 @@ public class ${1:`(file-name-sans-extension (buffer-name))`}
    * 
    * @return An instance of this class.
    */
-  public static $1 getInstance()
-  {
-    if(instance == null)
-    {
+  public static $1 getInstance() {
+    if(instance == null) {
       instance = new $1();
     }
 
