@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : (But ...)
+# --
+(But "${1:regex}"
+     (lambda ($2)
+       $0
+       ))

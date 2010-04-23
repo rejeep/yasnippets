@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : (When ...)
+# --
+(When "${1:regex}"
+      (lambda ($2)
+        $0
+        ))
