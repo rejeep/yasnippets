@@ -1,4 +1,11 @@
 # -*- mode: snippet -*-
-#name : concat ...
+#name : condition-case
 # --
-(concat $0)
+(condition-case err
+    (progn
+      
+      )
+  (error
+   
+   )
+  )
