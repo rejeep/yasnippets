@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : should_redirect_to("...") { url }
+#name : should_redirect_to('...') { url }
 # --
-should_redirect_to("${1:description}") { $0 }
+should_redirect_to('${1:description}') { $0 }

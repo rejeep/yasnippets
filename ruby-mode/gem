@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : config.gem ...
 # --
-config.gem '${1:gem}'
+gem '${1:name}', '${1:version}'
