@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : update_attirbute :attr, value
 # --
-update_attirbute :${1:attr}, ${2:value}
+update_attribute(:${1:attr}, ${2:value})
