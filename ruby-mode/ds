@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : describe '...' do ... end
+#name : describe ... do ... end
 # --
-describe '$1' do
+describe $1 do
   $0
 end
