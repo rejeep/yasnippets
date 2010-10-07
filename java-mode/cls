@@ -2,8 +2,11 @@
 #name : Class
 # --
 /**
- * 
+ * @author ${1:`(getenv "USER")`}
+ * @date $2
  */
-public class ${1:`(file-name-sans-extension (buffer-name))`} {
-  $0
+${3:public} class ${4:`(file-name-sans-extension (buffer-name))`} {
+  public $4 ($0) {
+
+  }
 }
