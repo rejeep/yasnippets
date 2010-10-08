@@ -1,9 +1,0 @@
-# -*- mode: snippet -*-
-#name : protected method(...)
-# --
-/**
- *
- */
-protected $1($2) {
-    $0
-}

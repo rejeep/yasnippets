@@ -1,9 +1,0 @@
-# -*- mode: snippet -*-
-#name : private method(...)
-# --
-/**
- *
- */
-private $1($2) {
-    $0
-}
