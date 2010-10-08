@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+#name :public method(...)
+# --
+/**
+ *
+ */
+public $1($2) {
+    $0
+}
