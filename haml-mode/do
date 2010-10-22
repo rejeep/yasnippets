@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : - method do ...
+#name : do block
 # --
 - $1 do
   $0

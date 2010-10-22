@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : select { |variable_name| ... }
+#name : select
 # --
-select { |${1:variable_name}| $0$1 }
+select { |${1:variable}| $0$1 }

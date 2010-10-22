@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : assertEquals(...)
+#name : assertEquals
 # --
 assertEquals("${1:message}", ${2:expected}, ${3:actual});

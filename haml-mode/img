@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : image_tag ...
+#name : image_tag
 # --
-= image_tag "${1:source}"
+= image_tag '${1:source}'

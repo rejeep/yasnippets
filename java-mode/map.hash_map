@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : HashMap
 # --
-Map<${1:key_type}, ${2:value_type}> ${3:variable_name} = new HashMap<$1, $2>($4);
+Map<${1:key_type}, ${2:value_type}> ${3:variable} = new HashMap<$1, $2>($4);

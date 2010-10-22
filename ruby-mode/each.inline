@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : each { |variable_name| ... }
+#name : each { |variable| ... }
 # --
 each { |${1:variable_name}| $0 }

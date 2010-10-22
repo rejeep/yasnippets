@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : dolist ...
+#name : dolist
 # --
-(dolist (${1:element} ${2:collection})
+(dolist (${1:item} ${2:list})
   $0
   )

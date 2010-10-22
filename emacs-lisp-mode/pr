@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : print ...
+#name : print
 # --
-(print $1)
+(print $0)

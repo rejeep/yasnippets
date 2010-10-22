@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : nothing
+#name : Render - nothing
 # --
 render :nothing => true

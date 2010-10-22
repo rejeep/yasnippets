@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name: But something else
+#name: But
 # --
 But ${1:something else}
 $0

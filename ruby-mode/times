@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : x.times do ... end
+#name : times
 # --
-${1:num}.times do$2
+${1:x}.times do$2
   $0
 end

@@ -1,4 +1,5 @@
-#name : f.date_select ...
+# -*- mode: snippet -*-
+#name : f.date_select
 # --
 <p>
   <%= f.label :${1:attribute}, ${2:label} %>

@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : js
+#name : Render - js
 # --
 render :js => '${1:javascript}'

@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : float => right
+#name : Float - right
 # --
 float: right;

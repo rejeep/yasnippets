@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
-#name : function function_name { ... }
+#name : function
 # --
-function ${1:function_name}()
-{
+function ${1:name}() {
   $0
 }

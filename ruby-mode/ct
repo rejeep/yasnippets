@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : context '...' do ... end
+#name : context
 # --
 context '$1' do
   $0

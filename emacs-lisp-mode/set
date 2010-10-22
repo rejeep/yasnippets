@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : setq variable value
+#name : setq
 # --
-(setq ${1:variable} ${2:value})
+(setq ${1:name} ${2:value})

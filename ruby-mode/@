@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : @variable = variable
 # --
-@${1:variable_name} = $1
+@${1:variable} = $1

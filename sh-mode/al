@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : alias name='...'
+#name : alias
 # --
-alias ${1:alias_name}='$0'
+alias ${1:name}='$0'

@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
-# name: Ert test
+# name: ert-deftest
 # --
-(ert-deftest ${1:test-name} ()
+(ert-deftest ${1:name} ()
+  ""
   $0
   )

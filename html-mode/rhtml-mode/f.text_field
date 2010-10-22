@@ -1,4 +1,5 @@
-#name : f.text_field ...
+# -*- mode: snippet -*-
+#name : f.text_field
 # --
 <p>
   <%= f.label :${1:attribute}, ${2:label} %>

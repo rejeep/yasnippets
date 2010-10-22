@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : unless condition ...
+#name : unless
 # --
 (unless ${1:condition}
   $0
-)
+  )

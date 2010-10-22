@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : def self.method ... end
+#name : Static method
 # --
-def self.${1:method_name}
+def self.${1:name}
   $0
 end

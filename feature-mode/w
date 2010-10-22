@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name: When some action
+#name: When
 # --
 When ${1:some action}
 $0

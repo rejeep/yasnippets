@@ -1,4 +1,5 @@
-#name : f.check_box ...
+# -*- mode: snippet -*-
+#name : f.check_box
 # --
 <p>
   <%= f.label :${1:attribute}, ${2:label} %>

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : maphash
+# --
+(maphash
+ (lambda (${2:key} ${3:value})
+   $0)
+ ${1:hash})

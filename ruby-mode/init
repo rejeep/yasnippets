@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : def initialize ... end
+#name : Constructor
 # --
 def initialize$1
   $0

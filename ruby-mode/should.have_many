@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : should_have_many attr, options
+#name : should_have_many
 # --
 should_have_many :${1:attribute}

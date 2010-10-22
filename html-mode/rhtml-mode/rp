@@ -1,3 +1,4 @@
-#name : render :partial => ...
+# -*- mode: snippet -*-
+#name : Render - partial
 # --
 <%= render :partial => $1 %>

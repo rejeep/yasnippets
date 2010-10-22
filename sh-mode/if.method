@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : if function then ... fi
+#name : if - function
 # --
-if ${1:function_name}; then
+if ${1:fn}; then
   $0
 fi

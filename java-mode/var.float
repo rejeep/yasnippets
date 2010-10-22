@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Float variable
+#name : Variable - float
 # --
-float ${1:variable_name} = $2;
+float ${1:variable} = $2;

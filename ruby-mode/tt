@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : <tt>attribute</tt>
-# --
-* <tt>${1:attribute}</tt> - 

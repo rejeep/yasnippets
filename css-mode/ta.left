@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : text-align => left
+#name : Text align - left
 # --
 text-align: left;

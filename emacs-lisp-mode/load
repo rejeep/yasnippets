@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : load ...
+#name : load
 # --
-(load "${1:file_name}")
+(load "${1:file}")

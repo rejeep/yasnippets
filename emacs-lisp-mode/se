@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : save-excursion ...
+#name : save-excursion
 # --
 (save-excursion
   $0
-)
+  )

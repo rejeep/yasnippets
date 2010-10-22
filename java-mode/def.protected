@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : protected method_name() { ... }
+#name : Method - proprotected
 # --
-protected ${2:return_type} ${3:method_name}($4) {
+protected ${2:return_type} ${3:name}($4) {
   $0
 }

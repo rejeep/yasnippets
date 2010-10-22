@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : respond_to do ... end
+#name : respond_to
 # --
 respond_to do |${1:format}|
   $0

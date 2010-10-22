@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : should '...' do ... end
+#name : should
 # --
 should '$1' do
   $0

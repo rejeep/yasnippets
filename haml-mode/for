@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : for ... in ...
+#name : for
 # --
 - for ${1:element} in ${2:collection}
   $0

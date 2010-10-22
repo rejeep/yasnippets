@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Integer variable
+#name : Variable - int
 # --
-int ${1:variable_name} = $2;
+int ${1:variable} = $2;

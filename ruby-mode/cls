@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 #name : Class
 # --
-class ${1:class_name}
+class ${1:name}
   $0
 end

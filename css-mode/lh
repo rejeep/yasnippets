@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : line-height: ...
+#name : line-height
 # --
 line-height: $1px;

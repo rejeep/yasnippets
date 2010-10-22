@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
-#name : mapcar ...
+#name : mapcar
 # --
-(mapcar (lambda (${1:element})
-  $0)
-${2:collection})
+(mapcar
+ (lambda (${2:item})
+   $0)
+ ${1:list})

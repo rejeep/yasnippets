@@ -1,3 +1,4 @@
-#name : image_tag ...
+# -*- mode: snippet -*-
+#name : image_tag
 # --
 <%= image_tag '${1:source}' %>

@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : border-bottom: ...px color style;
+#name : Border - bottom
 # --
-border-bottom: $1px ${2:color} ${3:style};
+border-bottom: ${1:1}px ${2:color} ${3:solid};

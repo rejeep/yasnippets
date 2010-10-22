@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Javadoc @param
+#name : Javadoc - param
 # --
-@param ${1:variable_name} ${2:descrition}
+@param ${1:variable} ${2:descrition}

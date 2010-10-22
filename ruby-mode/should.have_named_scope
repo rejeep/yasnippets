@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : should_have_named_scope name, options
+#name : should_have_named_scope
 # --
 named_scope :${name}, 

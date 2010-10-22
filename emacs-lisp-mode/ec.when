@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : (When ...)
+#name : Ecukes - When
 # --
 (When "${1:regex}"
       (lambda ($2)

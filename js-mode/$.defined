@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : $defined(obj);
-# --
-$defined($0)

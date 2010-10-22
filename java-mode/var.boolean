@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Boolean variable
+#name : Variable - boolean
 # --
-boolean ${1:variable_name} = ${2:true};
+boolean ${1:variable} = ${2:true};

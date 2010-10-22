@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Validate confirmation
+#name : Validation - confirmation
 # --
 validates_confirmation_of :${1:attributes}

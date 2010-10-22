@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : describe ... do ... end
+#name : describe
 # --
 describe $1 do
   $0

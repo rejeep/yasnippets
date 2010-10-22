@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : Javadoc comment
+#name : Javadoc - comment
 # --
 /**
  * $0

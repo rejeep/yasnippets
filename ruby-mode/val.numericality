@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Validate numericality
+#name : Validation - numericality
 # --
 validates_numericality_of :${1:attributes}

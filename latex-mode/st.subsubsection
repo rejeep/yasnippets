@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : \subsubsection
-# --
-\subsubsection{${1:title}}

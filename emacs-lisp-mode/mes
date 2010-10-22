@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : message ...
+#name : message
 # --
-(message ${1:message})
+(message $0)

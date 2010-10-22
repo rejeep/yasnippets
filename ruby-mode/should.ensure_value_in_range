@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : should_ensure_value_in_range attr, value
+#name : should_ensure_value_in_range
 # --
 should_ensure_value_in_range :${1:attribute}, ${2:value}

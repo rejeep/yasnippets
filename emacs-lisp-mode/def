@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-#name : defun function-name ...
+#name : defun
 # --
-(defun ${1:function-name} ($2)
+(defun ${1:name} ($2)
   ""
   $0
   )

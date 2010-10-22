@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : xml
+#name : Render - xml
 # --
 render :xml => ${1:xml}

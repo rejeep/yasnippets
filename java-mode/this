@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : this.instance = variable
 # --
-this.${1:variable_name} = $1;
+this.${1:variable} = $1;

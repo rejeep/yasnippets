@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : padding-right: ...px
+#name : Padding - right
 # --
 padding-right: $1px

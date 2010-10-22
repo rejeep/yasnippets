@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : \section
-# --
-\section{${1:title}}

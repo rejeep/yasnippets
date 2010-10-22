@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : Factory.define ... do ... end
+#name : Factory.define
 # --
 Factory.define :${1:name} do |f|
   $0

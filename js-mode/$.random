@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : $random(min, max);
-# --
-$random(${1:min}, ${2:max})

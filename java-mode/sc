@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 #name : Scanner
 # --
-Scanner ${1:variable_name} = null;
+Scanner ${1:variable} = null;
 
 try {
   $1 = new Scanner($0);

@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : LinkedList
 # --
-List<${1:type}> ${2:variable_name} = new LinkedList<$1>();
+List<${1:type}> ${2:variable} = new LinkedList<$1>();

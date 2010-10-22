@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : assert_same_elements extected, actual
+#name : assert_same_elements
 # --
 assert_same_elements ${1:expected}, ${2:actual}

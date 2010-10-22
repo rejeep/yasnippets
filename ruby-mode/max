@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : maximum(...)
+#name : maximum
 # --
 maximum(:${1:column})

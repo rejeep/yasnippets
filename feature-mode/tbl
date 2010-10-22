@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
 #name: Table
 # --
-Given ${1:the following table}$2
+Given ${1:the following}
   | $0 |

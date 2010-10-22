@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : car ...
+#name : car
 # --
-(car ${1:collection})
+(car ${1:list})

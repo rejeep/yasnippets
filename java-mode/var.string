@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : String variable
+#name : Variable - string
 # --
-String ${1:variable_name} = "$2";
+String ${1:variable} = "$2";

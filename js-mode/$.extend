@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : $extend(original, extended);
-# --
-$extend($0)

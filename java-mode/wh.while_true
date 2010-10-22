@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : while(true) { ... }
+#name : While - true
 # --
 while(true) {
   $0

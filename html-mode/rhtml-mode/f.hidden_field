@@ -1,3 +1,4 @@
-#name : f.hidden_field ...
+# -*- mode: snippet -*-
+#name : f.hidden_field
 # --
 <%= f.hidden_field :$1 %>

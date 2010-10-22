@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : public method_name() { ... }
+#name : Method - public
 # --
-public ${2:return_type} ${3:method_name}($4) {
+public ${2:return_type} ${3:name}($4) {
   $0
 }

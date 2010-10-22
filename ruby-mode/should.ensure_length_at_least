@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : should_ensure_length_at_least attr, length
+#name : should_ensure_length_at_least
 # --
 should_ensure_length_at_least :${1:attribute}, ${2:value}

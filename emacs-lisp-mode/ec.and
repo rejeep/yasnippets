@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : (And ...)
+#name : Ecukes - And
 # --
 (And "${1:regex}"
      (lambda ($2)

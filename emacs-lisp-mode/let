@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-#name : let ...
+#name : let
 # --
-(let ((${1:variables}))
+(let ((${1:name} ${2:value})$3)
   $0
-)
+  )

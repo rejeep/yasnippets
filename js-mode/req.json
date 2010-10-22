@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : Request.JSON(...)
+#name : AJAX - JSON
 # --
 new Request.JSON({
   onSuccess: function(responseJSON, responseText) {

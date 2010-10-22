@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : render :text => ...
-# --
-render :text => $1

@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : SELECT ... from ...;
-# --
-SELECT ${1:columns} from ${2:table};

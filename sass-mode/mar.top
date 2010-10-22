@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : margin-top: ...px
+#name : Margin - top
 # --
 margin-top: $1px

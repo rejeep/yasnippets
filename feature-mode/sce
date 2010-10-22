@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name: Scenario: Name
+#name: Scenario
 # --
-Scenario: ${1:Name}
+Scenario: ${1:name}
   $0

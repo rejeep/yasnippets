@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : each do ... end
+#name : each
 # --
 ${1:collection}.each do |${2:element}|
   $0

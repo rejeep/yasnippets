@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : :conditions => {}
-# --
-:conditions => { :${1:attribute} => ${2:value} }

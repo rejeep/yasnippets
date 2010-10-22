@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : it '...' do ... end
+#name : it
 # --
 it '$1' do
   $0

@@ -1,4 +1,5 @@
-#name : unless condition ... end
+# -*- mode: snippet -*-
+#name : unless
 # --
 <% unless ${1:condition} %>
   $0

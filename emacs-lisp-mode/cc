@@ -3,9 +3,8 @@
 # --
 (condition-case err
     (progn
-      
+      $0
       )
   (error
    
-   )
-  )
+   ))

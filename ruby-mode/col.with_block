@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : collect { |variable_name| ... }
+#name : collect { |variable| ... }
 # --
-collect { |${1:variable_name}| $1$0 }
+collect { |${1:variable}| $1$0 }

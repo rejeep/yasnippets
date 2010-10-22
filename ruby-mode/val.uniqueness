@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Validate uniqueness
+#name : Validation - uniqueness
 # --
 validates_uniqueness_of :${1:attributes}

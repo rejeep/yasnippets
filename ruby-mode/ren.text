@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : text
+#name : Render - text
 # --
 render :text => '${1:text}'
