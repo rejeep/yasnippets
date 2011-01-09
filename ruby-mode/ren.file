@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Render - file
-# --
-render :file => '${1:file}'

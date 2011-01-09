@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Render - action
-# --
-render :action => '${1:action}'

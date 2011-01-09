@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : attr_writer
-# --
-attr_writer :${1:attributes}

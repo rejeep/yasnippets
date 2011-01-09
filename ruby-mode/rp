@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Render - partial
+#name : render partial
 # --
 render :partial => $1

@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Render - template
-# --
-render :template => '${1:template}'

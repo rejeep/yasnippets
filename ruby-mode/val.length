@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Validation - length
+#name : length
 # --
-validates_length_of :${1:attributes}
+validates :${1:attributes}, :length => { :${2:$$(yas/choose-value '("maximum" "minimum"))} => ${3:number} }

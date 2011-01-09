@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Validation - exclusion
+#name : exclusion
 # --
-validates_exclusion_of :${1:attributes}
+validates :${1:attributes}, :exclusion => { :in => $0 }

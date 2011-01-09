@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Validation - format
+#name : format
 # --
-validates_format_of :${1:attributes}, :with => /$0/
+validates :${1:attributes}, :format => { :with => /$0/ }

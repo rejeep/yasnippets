@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Render - json
-# --
-render :json => ActiveSupport::JSON.encode(${1:json})

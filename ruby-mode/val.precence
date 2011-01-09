@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Validation - presence
+#name : presence
 # --
-validates_presence_of :${1:attributes}
+validates :${1:attributes}, :presence => true

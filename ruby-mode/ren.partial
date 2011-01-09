@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Render - partial
-# --
-render :partial => '${1:partial}'

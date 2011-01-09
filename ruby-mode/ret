@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
 #name : redirect_to
 # --
-redirect_to $1_path
+redirect_to $1

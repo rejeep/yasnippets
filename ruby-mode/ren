@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : render
+# --
+render :${1:$$(yas/choose-value '("action" "file" "js" "nothing" "partial" "template" "text" "xml"))} => '${2:action}'

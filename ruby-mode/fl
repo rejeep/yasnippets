@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : flash
+# --
+flash[:${1:$$(yas/choose-value '("error" "message" "notice" "warning"))}] = '$0'

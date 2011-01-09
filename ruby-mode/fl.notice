@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : flash[:notice]
-# --
-flash[:notice] = '$0'
