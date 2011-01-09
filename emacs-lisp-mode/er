@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : error
+# --
+(error "$0")
