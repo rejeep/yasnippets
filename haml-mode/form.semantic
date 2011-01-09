@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : semantic_form_for
+#name : semantic
 # --
 = semantic_form_for ${1:variable} do |form|
   - form.inputs do
