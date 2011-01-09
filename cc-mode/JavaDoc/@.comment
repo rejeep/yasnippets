@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+#name : Javadoc Comment
+# --
+/**
+ * @${1:param} ${2:parameter-name} ${3:comment}
+ *
+ * ${4:@return} $0
+ */
