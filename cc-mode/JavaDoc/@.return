@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Javadoc - return
-# --
-@return ${1:descrition}
