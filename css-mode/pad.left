@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name: Padding - left
-# --
-padding-left: $1px;

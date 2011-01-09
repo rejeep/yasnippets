@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Padding - single
+#name : same
 # --
 padding: $1px;
