@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : direction
+# --
+border-${1:$$(yas/choose-value '("top" "right" "bottom" "left"))}: ${2:1}px ${3:color} ${4:solid};
