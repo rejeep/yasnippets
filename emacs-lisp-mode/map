@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+#name : mapc
+# --
+(${1:$$(yas/choose-value '("mapc" "mapcar"))}
+ (lambda (${3:item})
+   $0
+   )
+ ${2:list})

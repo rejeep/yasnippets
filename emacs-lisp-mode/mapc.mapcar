@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-#name : mapcar
-# --
-(mapcar
- (lambda (${2:item})
-   $0)
- ${1:list})
