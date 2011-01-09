@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : direction
+# --
+margin-${1:$$(yas/choose-value '("top" "right" "bottom" "left"))}: $2px

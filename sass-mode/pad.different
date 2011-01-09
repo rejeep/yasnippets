@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : Padding - all
+#name : different
 # --
 padding: ${1:top}px ${2:right}px ${3:bottom}px ${4:left}px
