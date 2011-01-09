@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
 #name : Id block
+#key : #
 # --
-#${1:name} {
+#${1:id} {
   $0
 }
