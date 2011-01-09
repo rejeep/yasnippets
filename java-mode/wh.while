@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-#name : While - condition
+#name : condition
 # --
 while(${1:condition}) {
   $0

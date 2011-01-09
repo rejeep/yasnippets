@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Variable - string
-# --
-String ${1:variable} = "$2";

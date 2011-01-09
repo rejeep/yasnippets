@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-#name : Instance variable - string
-# --
-/**
- * 
- */
-private String ${1:variable_value};

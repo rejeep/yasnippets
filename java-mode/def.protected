@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-#name : Method - proprotected
-# --
-protected ${2:return_type} ${3:name}($4) {
-  $0
-}

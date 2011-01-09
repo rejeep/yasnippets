@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Object
-# --
-${1:Object} ${2:variable} = new $1($3);

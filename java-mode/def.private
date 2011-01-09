@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-#name : Method - private
-# --
-private ${2:return_type} ${3:name}($4) {
-  $0
-}

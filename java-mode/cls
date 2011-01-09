@@ -2,11 +2,11 @@
 #name : Class
 # --
 /**
- * @author ${1:`(getenv "USER")`}
- * @date $2
+ * @author Johan Andersson (johan.rejeep@gmail.com)
+ * @date `(format-time-string "%Y-%m-%d")`
  */
-${3:public} class ${4:`(file-name-sans-extension (buffer-name))`} {
-  public $4 ($0) {
-
+public class ${1:`(file-name-sans-extension (buffer-name))`} {
+  public $1 () {
+    $0
   }
 }

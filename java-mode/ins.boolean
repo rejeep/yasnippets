@@ -1,7 +1,0 @@
-# -*- mode: snippet -*-
-#name : Instance variable - boolean
-# --
-/**
- * 
- */
-private boolean ${1:variable_value};

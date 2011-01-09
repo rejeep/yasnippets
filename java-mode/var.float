@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : Variable - float
-# --
-float ${1:variable} = $2;

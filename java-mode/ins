@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : Instance variable
+# --
+/**
+ * $0
+ */
+private ${1:$$(yas/choose-value '("String" "int" "boolean" "float"))} ${2:value};

@@ -1,6 +1,10 @@
 # -*- mode: snippet -*-
 #name : Interface
 # --
+/**
+ * @author Johan Andersson (johan.rejeep@gmail.com)
+ * @date `(format-time-string "%Y-%m-%d")`
+ */
 public interface ${1:`(file-name-sans-extension (buffer-name))`} {
   $0
 }

@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : JLabel
-# --
-${1:JLabel} ${2:variable} = new $1($3);
