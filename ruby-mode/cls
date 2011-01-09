@@ -1,6 +1,13 @@
-# -*- mode: snippet -*-
-#name : Class
+# -*- Mode: Snippet -*-
+#name : class ... end
+#contributor : hitesh <hitesh.jasani@gmail.com>
+#group : definitions
 # --
-class ${1:name}
+class ${1:`(let ((fn (capitalize (file-name-nondirectory
+                                 (file-name-sans-extension
+                                   (buffer-file-name))))))
+             (if (string-match "_" fn)
+                 (replace-match "" nil nil fn)
+                fn))`}
   $0
 end
