@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : mapc
+# --
+(mapc
+ (lambda (${2:item})
+   $0)
+ ${1:list})
