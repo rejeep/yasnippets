@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : Ecukes step
+# --
+(${1:$$(yas/choose-value '("Given" "When" "Then" "And" "But"))} "${2:regex}"
+     (lambda ($3)
+       $0
+       ))
