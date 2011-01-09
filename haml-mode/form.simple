@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+#name : semantic_form_for
+# --
+= simple_form_for ${1:object} do |form|
+  = form.input :${2:input}
+
+  = form.button :submit
