@@ -1,6 +1,7 @@
 # -*- mode: snippet -*-
 #name : Class block
+#key: .
 # --
-.${1:name} {
+.${1:class} {
   $0
 }
