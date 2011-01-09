@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : label_tag
-# --
-<%= label_tag ${1:name}, ${2:text} %>

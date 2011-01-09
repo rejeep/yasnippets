@@ -1,4 +1,0 @@
-# -*- mode: snippet -*-
-#name : button
-# --
-<input type="button" value="$1"$0 />

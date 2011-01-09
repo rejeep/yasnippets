@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : value="..."
+#name : value
 # --
 value="$0"

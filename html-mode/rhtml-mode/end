@@ -1,4 +1,4 @@
 # -*- mode: snippet -*-
-#name : name="..."
+#name : end
 # --
-name="$0"
+<% end %>

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+#name : simple
+# --
+<% simple_form_for ${1:object} do |form| %>
+  <%= form.input :${2:input} %>
+  $0
+
+  <%= form.button :submit %>
+<% end %>

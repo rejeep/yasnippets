@@ -1,6 +1,0 @@
-# -*- mode: snippet -*-
-#name : f.submit
-# --
-<p>
-  <%= f.submit '${1:Create}' %>
-</p>

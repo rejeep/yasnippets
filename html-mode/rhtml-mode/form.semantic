@@ -3,7 +3,8 @@
 # --
 <% semantic_form_for ${1:variable} do |form| %>
   <% form.inputs do %>
-    <%= form.input :${2:input} %>$0
+    <%= form.input :${2:input} %>
+    $0
   <% end %>
 
   <% form.buttons do %>
