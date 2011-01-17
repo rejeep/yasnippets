@@ -1,4 +1,6 @@
 # -*- mode: snippet -*-
 #name : should
 # --
-(should $0)
+(should
+ $0
+ )
