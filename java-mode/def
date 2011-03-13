@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : method
+# --
+${1:$$(yas/choose-value '("public" "private" "protected"))} ${2:return-type} ${3:function-name}($4) {
+  $0
+}
