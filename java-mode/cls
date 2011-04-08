@@ -2,7 +2,7 @@
 #name : Class
 # --
 /**
- * @author Johan Andersson (johan.rejeep@gmail.com)
+ * @author `user-full-name` (`user-mail-address`)
  * @date `(format-time-string "%Y-%m-%d")`
  */
 public class ${1:`(file-name-sans-extension (buffer-name))`} {
