@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : tfoot
+# --
+<tfoot>
+  $0
+</tfoot>
