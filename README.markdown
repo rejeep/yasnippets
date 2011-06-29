@@ -39,6 +39,7 @@ Thanks to Jeff Wheeler for his work on the snippet_copier.py script!
 A large portion of these snippets came from Johan Andersson originally but
 have been (or are being) heavily re-organized, he contributed snippets for
 the following modes.
+
  * css-mode
  * emacs-lisp-mode
  * haml-mode
