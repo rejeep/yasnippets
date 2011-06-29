@@ -14,6 +14,7 @@ project.
 * [John Andrews](http://github.com/jxa)
 * [Johan Andersson](http://github.com/rejeep)
 * [Andrew Myers](http://github.com/icarus127)
+* [Jürgen Hötzel](https://github.com/juergenhoetzel)
 
 ## ruby-mode
 [yasnippet](http://code.google.com/p/yasnippet/ "yasnippet - Google Code").
