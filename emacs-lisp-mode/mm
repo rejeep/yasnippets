@@ -35,13 +35,13 @@
 ;;; Code:
 
 (defvar $1-mode-map (make-sparse-keymap)
-  "Keymap for `$1-mode'.")
+  "Keymap for $1-mode.")
 
 ;;;###autoload
 (define-minor-mode $1-mode
   "TODO"
   :init-value nil
-  :lighter " drag"
+  :lighter " TODO"
   :keymap $1-mode-map)
 
 ;;;###autoload
