@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 #name : it
 # --
-it '$1' do
+it 'should $1' do
   $0
 end
