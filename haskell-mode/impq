@@ -1,0 +1,5 @@
+# Author: Johan Tibell <johan.tibell@gmail.com>
+# name: import qualfied
+# key: impq
+# --
+import qualified $1 as $0

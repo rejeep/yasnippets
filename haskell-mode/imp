@@ -1,0 +1,5 @@
+# Author: Johan Tibell <johan.tibell@gmail.com>
+# name: import
+# key: imp
+# --
+import $0
