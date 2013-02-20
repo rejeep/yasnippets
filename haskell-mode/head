@@ -1,0 +1,16 @@
+# Author: Ozgun Ataman <ozataman@gmail.com>
+# name: module header
+# key: head
+# --
+-----------------------------------------------------------------------------
+-- |
+-- Module      :  $1
+-- Copyright   :  $2
+-- License     :  $3
+--
+-- Maintainer  :  $4
+-- Stability   :  experimental
+--
+-- $5
+----------------------------------------------------------------------------
+$0
