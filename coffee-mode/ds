@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+#name : Describe
+# --
+describe '${1:description}', ->
+  $0
