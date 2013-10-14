@@ -20,3 +20,4 @@ Included modes are:
 * ruby-mode
 * sass-mode
 * sh-mode
+* coffee-mode
