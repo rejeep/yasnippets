@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+#name : it
+# --
+it('$1', function() {
+  $0
+});
