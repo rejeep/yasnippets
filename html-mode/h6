@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+#name : h6
+# --
+<h6>$0</h6>
